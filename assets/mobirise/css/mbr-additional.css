@@ -778,73 +778,6 @@ a {
     padding-right: 16px;
   }
 }
-.cid-uJvcDmPRK9 {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
-  background-color: #a6a99c;
-}
-.cid-uJvcDmPRK9 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uJvcDmPRK9 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uJvcDmPRK9 .card-wrapper {
-  overflow: hidden;
-  background: #ffffff;
-}
-.cid-uJvcDmPRK9 .text-wrapper {
-  padding: 4rem 3rem;
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-uJvcDmPRK9 .text-wrapper {
-    padding: 2.25rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uJvcDmPRK9 .text-wrapper {
-    padding: 1.5rem;
-  }
-}
-.cid-uJvcDmPRK9 .row {
-  align-items: center;
-  margin-right: -1rem;
-  margin-left: -1rem;
-}
-.cid-uJvcDmPRK9 .row {
-  flex-direction: row-reverse;
-}
-.cid-uJvcDmPRK9 .image-wrapper {
-  padding: 0 1rem;
-}
-.cid-uJvcDmPRK9 img,
-.cid-uJvcDmPRK9 .image-wrapper {
-  height: 600px;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-uJvcDmPRK9 img,
-  .cid-uJvcDmPRK9 .image-wrapper {
-    max-height: 350px;
-  }
-}
-.cid-uJvcDmPRK9 .mbr-section-title {
-  color: #2e481a;
-  text-align: right;
-}
-.cid-uJvcDmPRK9 .mbr-text {
-  color: #000000;
-}
-.cid-uJvcDmPRK9 .mbr-text,
-.cid-uJvcDmPRK9 .mbr-section-btn {
-  text-align: right;
-}
 .cid-uIUjQ1onVE {
   z-index: 1000;
   width: 100%;
@@ -1400,6 +1333,73 @@ a {
   .cid-uIUjQ1onVE .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-uJvcDmPRK9 {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-color: #a6a99c;
+}
+.cid-uJvcDmPRK9 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uJvcDmPRK9 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uJvcDmPRK9 .card-wrapper {
+  overflow: hidden;
+  background: #ffffff;
+}
+.cid-uJvcDmPRK9 .text-wrapper {
+  padding: 4rem 3rem;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-uJvcDmPRK9 .text-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uJvcDmPRK9 .text-wrapper {
+    padding: 1.5rem;
+  }
+}
+.cid-uJvcDmPRK9 .row {
+  align-items: center;
+  margin-right: -1rem;
+  margin-left: -1rem;
+}
+.cid-uJvcDmPRK9 .row {
+  flex-direction: row-reverse;
+}
+.cid-uJvcDmPRK9 .image-wrapper {
+  padding: 0 1rem;
+}
+.cid-uJvcDmPRK9 img,
+.cid-uJvcDmPRK9 .image-wrapper {
+  height: 600px;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-uJvcDmPRK9 img,
+  .cid-uJvcDmPRK9 .image-wrapper {
+    max-height: 350px;
+  }
+}
+.cid-uJvcDmPRK9 .mbr-section-title {
+  color: #2e481a;
+  text-align: right;
+}
+.cid-uJvcDmPRK9 .mbr-text {
+  color: #000000;
+}
+.cid-uJvcDmPRK9 .mbr-text,
+.cid-uJvcDmPRK9 .mbr-section-btn {
+  text-align: right;
 }
 .cid-uJ67QU44bG {
   padding-top: 6rem;
@@ -2126,7 +2126,7 @@ a {
 .cid-uIUkNfnA50 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #edefeb;
+  background-color: #a6a99c;
 }
 .cid-uIUkNfnA50 img,
 .cid-uIUkNfnA50 .item-img {
@@ -2197,7 +2197,7 @@ a {
 .cid-uIUkNuO2VU {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #edefeb;
+  background-color: #a6a99c;
 }
 .cid-uIUkNuO2VU img,
 .cid-uIUkNuO2VU .item-img {
@@ -2824,7 +2824,7 @@ a {
 .cid-uIUlWk1Vn1 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #edefeb;
+  background-color: #a6a99c;
 }
 .cid-uIUlWk1Vn1 img,
 .cid-uIUlWk1Vn1 .item-img {
@@ -2895,7 +2895,7 @@ a {
 .cid-uIUlWDzAxU {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #edefeb;
+  background-color: #a6a99c;
 }
 .cid-uIUlWDzAxU img,
 .cid-uIUlWDzAxU .item-img {
@@ -3522,7 +3522,7 @@ a {
 .cid-uIUlTWaRr1 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #edefeb;
+  background-color: #a6a99c;
 }
 .cid-uIUlTWaRr1 img,
 .cid-uIUlTWaRr1 .item-img {
@@ -3593,7 +3593,7 @@ a {
 .cid-uIUlUi5whg {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #edefeb;
+  background-color: #a6a99c;
 }
 .cid-uIUlUi5whg img,
 .cid-uIUlUi5whg .item-img {
